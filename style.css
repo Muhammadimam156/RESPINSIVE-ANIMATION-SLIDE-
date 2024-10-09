@@ -32,7 +32,7 @@
     inset: 0 0 0 0;
     transform: 
         rotateY(calc( (var(--position) - 1) * (360 / var(--quantity)) * 1deg))
-        translateZ(550px);
+        translateZ(450px);
 }
 .banner .slider .item img{
     width: 100%;
@@ -55,7 +55,7 @@
 }
 .banner .content h1{
     font-family: 'ICA Rubrik';
-    font-size: 16em;
+    font-size: 15em;
     line-height: 1em;
     color: #25283B;
     position: relative;
